@@ -2,7 +2,7 @@ a =[1,2,3,4,5,5] #this is a list
 
 b= (1,2,3,4,5,5) #this is a Tuple
 
-c= {1,2,3,4,5,5} #this is a sets
+c= {1,2,3,4,5,5,6,7} #this is a sets
 
 d={
     'a':1,
