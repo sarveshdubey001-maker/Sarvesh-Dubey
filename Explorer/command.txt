@@ -1,0 +1,4 @@
+1 conda activate C:\Users\SARVESH\Miniconda3
+2 conda activate C:\Users\SARVESH\Miniconda3
+conda info --envs
+conda activate C:\Users\SARVESH\Miniconda3
